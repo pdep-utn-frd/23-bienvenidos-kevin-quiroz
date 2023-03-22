@@ -24,3 +24,4 @@
     - Javascript
     - Node JS
     - Express JS
+    - HTML
